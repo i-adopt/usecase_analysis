@@ -1,3 +1,4 @@
+ID,Use case group name, Description
 1,terminology management,"Gather, curate and maintain terminologies"
 2,data integration and analysis,Collate data from multiple heterogeneous sources in order to perform a scientific analysis
 3,"data aggregation and product development (e.g. climatology, EVs)",Merge data from multiple heterogeneous sources in order to derive a product
