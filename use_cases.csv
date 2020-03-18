@@ -8,6 +8,6 @@ UCG-ID;use case group;UC-ID;use case;description
 2;resource annotation;2.3;Annotation service provision;provision of annotation tools and services
 3;data discovery and exploration;3.1;Semantic data search;select appropriate data records for download or further online manipulation (like e.g. intergation) based on search criteria that target a particular set of observable properties
 3;data discovery and exploration;3.2;Semantic data exploration;select appropriate data records for visual display based on search criteria that target a particular set of observable properties
-4;Data manipulation and integration;4.1;Data integration;"Combine datasets from various sources based on semantic information - could target one specific kind of data or multiple kinds of data; needs to support merging criteria (i.e. exclude/include based on a particular set of criteria) and retention of source information"
+4;Data manipulation and integration;4.1;Data integration;Combine datasets from various sources based on semantic information - could target one specific kind of data or multiple kinds of data; needs to support merging criteria (i.e. exclude/include based on a particular set of criteria) and retention of source information
 4;Data manipulation and integration;4.2;Data model alignment;Select appropriate data sets for use with physical computational models by combining data search and integration
 4;Data manipulation and integration;4.3;Data cleaning;use semantic information to carry out data quality control
