@@ -1,0 +1,16 @@
+UCG-ID,use case group,UC-ID,use case,description
+G1,Terminology generation and management,UC1,Semantic modelling,Develop formal terminologies to represent the concepts being described and the relationships between those concepts.
+G1,Terminology generation and management,UC2,Terminology management,Gather/curate and maintain the individual terms within a terminology.
+G1,Terminology generation and management,UC3,Semantic alignment,Create mappings between terminologies using established relationships. Record and preserve the mappings.
+G1,Terminology generation and management,UC4,Terminology search,Search for relevant terminologies and/or terms within terminologies. Retrieve the search results.
+G1,Terminology generation and management,UC5,Multilingual concepts,Provide multilingual representations of the concepts within a terminology.
+G2,Resource annotation,UC6,Data annotation,Manual or automated process for annotation of column headers/fields and streams. Could be done in real- or near-real time when the data are generated and subsequently transformed or in delayed mode.
+G2,Resource annotation,UC7,Metadata annotation,Manual or automated process for annotation of metadata records related to datasets. This is not coupled with data creation.
+G2,Resource annotation,UC8,Annotation service provision,provision of annotation tools and services
+G3,Data discovery and exploration,UC9,Keyword semantic data search,Data discovery based on keywords that come from a controlled vocabulary
+G3,Data discovery and exploration,UC10,Facet semantic data search,Data discovery based on semantic classifications.
+G3,Data discovery and exploration,UC11,Data mining and AI,Discovering patterns in large data sets
+G4,Data manipulation and integration,UC12,Data integration,Combine datasets from various sources based on semantic information
+G4,Data manipulation and integration,UC13,Data model alignment,Harmonize different data models
+G4,Data manipulation and integration,UC14,Data validation,Use semantic information to check data
+G4,Data manipulation and integration,UC15,Data product development,Generate output by integrating several datasets
